@@ -52,7 +52,7 @@ def printrules():
 
 # print error message
 def printmud():
-#    pass
+    pass
     
 # start of the main program
 printrules()
